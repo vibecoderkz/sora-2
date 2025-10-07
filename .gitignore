@@ -9,12 +9,16 @@ node_modules/
 data/
 *.db
 *.db-journal
+bot.db
 
 # Media files
 *.mp4
 *.jpg
 *.jpeg
 *.png
+
+# Documentation (exclude all markdown files)
+*.md
 
 # Logs
 *.log
@@ -27,3 +31,4 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+.claude/
