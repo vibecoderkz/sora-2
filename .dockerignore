@@ -1,0 +1,15 @@
+node_modules
+npm-debug.log
+.env
+.env.local
+data/
+*.db
+*.db-journal
+*.mp4
+*.log
+.git
+.gitignore
+README.md
+.vscode
+.idea
+*.md
